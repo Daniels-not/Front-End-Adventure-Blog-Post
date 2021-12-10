@@ -12,6 +12,8 @@ Make a WEB system that allows visitors the following functionalities:
 
 ## Functionalities ✨
 
+- Home Page✔️
+
 - Log in ✔️
 
 - Log out ✔️
