@@ -1,5 +1,5 @@
 # Front end Adventure Blog Post  🔥
-![index](https://github.com/Daniels-not/contact-api-itla/blob/main/get.PNG) ![account](https://github.com/Daniels-not/contact-api-itla/blob/main/POST.PNG)
+![index](https://github.com/Daniels-not/Front-End-Adventure-Blog-Post/blob/main/preview.PNG) ![account](https://github.com/Daniels-not/contact-api-itla/blob/main/POST.PNG)
 
 ## Instructions 📑
 
